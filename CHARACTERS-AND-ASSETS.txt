@@ -1,0 +1,19 @@
+STARFORGED WEBSITE PACKAGE
+
+Character gallery uses the four established THE LAST STAR characters:
+- Kairo — Seventh Star energy
+- Reina — lightning
+- Zane — wind
+- Lord Vexar — shadows
+
+The individual character portrait files are crops from the approved STARFORGED cast poster supplied for this project. They preserve the source anime artwork; no new character designs or names have been invented.
+
+Main files:
+- index.html — complete responsive website
+- assets/starforged-logo.png — site logo
+- assets/starforged-cast-poster.jpg — full cast artwork
+- assets/character-kairo.jpg
+- assets/character-reina.jpg
+- assets/character-zane.jpg
+- assets/character-lord-vexar.jpg
+- assets/STARFORGED-Trailer.mp4 — trailer
